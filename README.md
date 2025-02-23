@@ -14,4 +14,4 @@ I am currently working on a **Face Recognition System** utilizing **OpenCV and H
 - **Testing (`face_test.py`)** the trained model  
 - **Implementing real-time recognition (`face_recognition.py`)**  
 
-This project aims to deepen my understanding of **facial recognition algorithms** and their applications in security, authentication, and smart surveillance systems.  
+This project aims to deepen my understanding of **facial recognition algorithms** and their applications.
